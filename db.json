@@ -1,9 +1,9 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+  "users": [
+    {"id": 1,"name": "Mario", "surname": "Rossi"},
+    {"id": 2,"name": "Giuseppe","surname": "Verdi"},
+    {"id": 3,"name": "Francesco","surname": "Bianchi"},
+    {"id": 4,"name": "Andrea","surname": "Neri"}
   ],
   "profile": {
     "name": "typicode"
